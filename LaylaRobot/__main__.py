@@ -81,7 +81,7 @@ I'm a group manager bot maintained by [BeatKing Mahan](tg://user?id=1773361002).
 
 For more commands click /help**...
 
-**Keep in mind this bot is made only for @MahanMVGroup.**
+**Keep in mind this bot is made only for @KannadaMVRequest.**
 """
 
 
@@ -95,7 +95,7 @@ buttons = [
     [
         InlineKeyboardButton(text="About", callback_data="layla_"),
         InlineKeyboardButton(
-            text="Support", url=f"https://t.me/MahanMVGroup"),
+            text="Support", url=f"https://t.me/KannadaMVRequest"),
 
     ],
     [
